@@ -1,10 +1,8 @@
 **AI-Powered Real-Time Traffic Signal Management System 🚦**
 
-This project leverages AI and machine learning to revolutionize urban traffic management. By integrating a **Random Forest Classifier**, the system dynamically optimizes green light allocation based on real-time data, including:
+This project leverages AI and machine learning to revolutionize urban traffic management. By integrating a **Random Forest Classifier**, the system dynamically optimizes green light allocation based on  data, including:
 
 •	Traffic flow and queue lengths
-
-•	Pedestrian movement
 
 •	Weather conditions
 
