@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import pandas as pd
 import random
 import time
@@ -230,16 +224,3 @@ system.add_intersection("University District", "Educational Zone")
 
 
 system.run()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
